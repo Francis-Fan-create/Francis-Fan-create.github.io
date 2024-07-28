@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Francis-Fan-create"
+  github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -48,7 +48,7 @@ author:
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "users/23248428/francis-fan"
+  stackoverflow    : "https://mathoverflow.net/users/494497/francis-fan"
   steam            :
   tumblr           :
   twitter          : "FanFrankst43689"
