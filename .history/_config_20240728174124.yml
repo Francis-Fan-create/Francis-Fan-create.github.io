@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zexi Fan"
-  avatar           : "images/selfie.jpg"
+  avatar           : "images/.png"
   bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
