@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Homepage"
 description              : "Homepage of Zexi Fan"
-repository               : "Francis-Fan-create/zexi_fan.github.io"
+repository               : "Francis-Fan-create"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zexi Fan"
+  name             : "Lorem ipsum"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Peking University"
+  bio              : "Lorem ipsum College"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "fanzexi_francis@stu.pku.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "Lorem@ipsum.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,15 +43,15 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zexi-fan-79510a308/"
+  linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://mathoverflow.net/users/494497/francis-fan"
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/FanFrankst43689"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
