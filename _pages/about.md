@@ -21,7 +21,7 @@ I am a 3rd year undergraduate majoring in computational mathematics at Peking Un
 
 My research interests include scientific machine learning, diffusion models，high dimensional PDE solvers, and any other related topics in applied mathematics.
 
-Here is my [CV](My_Resume_2024_7.pdf).
+Here is my [CV](My_Resume_2024_11.pdf).
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Simulation-Calibrated Scientific Machine Learning (SCaSML) for Solving High-Dimensional Partial Differential Equations submitted.
@@ -78,15 +78,24 @@ First Author: **Zexi Fan**
   - Supervisors: [Prof. Yiping Lu](https://2prime.github.io/) and [Dr. Yan Sun](https://www.researchgate.net/scientific-contributions/Yan-Sun-2195551935) at Northwest, Gatech
   - Developed simulation-based estimators to calibrate PINN error
   - Demonstrated SCaSML effectiveness through numerical experiments on multiple 100d+ PDEs
+  
+- **Continuous State Contextual Bandit with Pessimism Regularization** (August 2024 - Present)
+  - Supervisors: [Prof. Ying Jin](https://ying531.github.io/) at Havard
+  - Constructed an adaptation Pessimism Regularization for contextual bandit with continuous state space
+  - Proved the suboptimality of the estimator does not require uniform overlapping assumption 
 
 # 📚 Academic Activities
 - Graduate course: Combinatorics, Score: 92, taught by [Prof. Chunwei Song](https://www.math.pku.edu.cn/teachers/csong/index.html) (Spring 2023)
 - Graduate course: Machine learning, Score: 93, taught by [Prof. Kedian Mou](https://scholar.google.com.hk/citations?user=H7QUCUwAAAAJ&hl=en) (Winter 2023)
 - Graduate course: Mathematical image processing, Audit, taught by [Prof. Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) (Winter 2023)
+- Graduate course: High Dimensional Probability, Ongoing, taught by [Prof. Zhihua Zhang](https://www.math.pku.edu.cn/teachers/zhzhang/) (Fall 2024)
+- Graduate course: Optimization Methods, Ongoing, taught by [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) (Fall 2024)
+- Graduate course: Applied Stochastic Analysis, Ongoing, taught by [Prof. Tiejun Li](https://www.math.pku.edu.cn/teachers/litj/) (Fall 2024)
 - Seminar: Blowup in fluid equations, organized by [Prof. Jiajun Tong](http://faculty.bicmr.pku.edu.cn/~tongj/) & [Prof. De Huang](https://sites.google.com/view/de-huang/home) (Winter 2023)
 - Seminar: Stochastic optimal control, organized by Dr. Xinhan Duan (Spring 2024)
 - Seminar: Large Language Model and Scientific Computing, organized by [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) (Winter 2024)
 - Summer school: Beauty of theoretical computer science, organized by NJU CS Dept. (Summer 2024)
+- Seminar: LLM and scientific computing, organized by [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) (Fall 2024)
 
 # 🌐 Social Activities
 - Academic & Innovation Department, SMS Student Union (Spring 2023)
