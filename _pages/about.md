@@ -95,7 +95,6 @@ First Author: **Zexi Fan**
 - Seminar: Stochastic optimal control, organized by Dr. Xinhan Duan (Spring 2024)
 - Seminar: Large Language Model and Scientific Computing, organized by [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) (Winter 2024)
 - Summer school: Beauty of theoretical computer science, organized by NJU CS Dept. (Summer 2024)
-- Seminar: LLM and scientific computing, organized by [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) (Fall 2024)
 
 # 🌐 Social Activities
 - Academic & Innovation Department, SMS Student Union (Spring 2023)
