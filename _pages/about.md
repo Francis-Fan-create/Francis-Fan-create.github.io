@@ -36,7 +36,7 @@ Here is my [CV](My_Resume_2024_11.pdf).
 First Author: **Zexi Fan**
 
 [**Project**(Comming Soon)](To Do) <strong><span class='show_paper_citations' data=''></span></strong>
-- A preprint submitted.
+- Working on that.
 </div>
 </div>
 
