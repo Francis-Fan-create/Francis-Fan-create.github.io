@@ -24,18 +24,18 @@ My research interests include scientific machine learning, diffusion models，hi
 Here is my [CV](My_Resume_2024_11.pdf).
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Simulation-Calibrated Scientific Machine Learning (SCaSML) for Solving High-Dimensional Partial Differential Equations submitted.
+
 
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Simulation-Calibrated Scientific Machine Learning (SCaSML) for Solving High-Dimensional Partial Differential Equations](To Do)
+[Simulation-Calibrated Scientific Machine Learning (SCaSML) for Solving High-Dimensional Partial Differential Equations(Comming Soon)](To Do)
 
 First Author: **Zexi Fan**
 
-[**Project**](To Do) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Project**(Comming Soon)](To Do) <strong><span class='show_paper_citations' data=''></span></strong>
 - A preprint submitted.
 </div>
 </div>
