@@ -75,7 +75,7 @@ First Author: **Zexi Fan**
   - Implemented numerical experiments to confirm its efficacy(-> ongoing)
   
 - **Simulation-Calibrated Scientific Machine Learning (SCaSML) for Solving High-Dimensional Partial Differential Equations** (June 2024 - Present)([Codebase for PINN](https://github.com/Francis-Fan-create/SCaSML.git),[Codebase for Gaussian Kernel](https://github.com/Francis-Fan-create/SCaSML_GP.git))
-  - Supervisors: [Prof. Yiping Lu](https://2prime.github.io/) and [Dr. Yan Sun](https://www.researchgate.net/scientific-contributions/Yan-Sun-2195551935) at Northwest, Gatech
+  - Supervisors: [Prof. Yiping Lu](https://2prime.github.io/) and [Dr. Yan Sun](https://www.researchgate.net/scientific-contributions/Yan-Sun-2195551935) at Northwestern, Gatech
   - Developed simulation-based estimators to calibrate PINN error
   - Demonstrated SCaSML effectiveness through numerical experiments on multiple 100d+ PDEs
   
