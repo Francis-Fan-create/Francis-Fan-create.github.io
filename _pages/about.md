@@ -74,7 +74,7 @@ First Author: **Zexi Fan**
   - Developed continuous versions of Soft Actor-Crictic and GFlowNet by stochastic analysis
   - Implemented numerical experiments to confirm its efficacy(-> ongoing)
   
-- **Simulation-Calibrated Scientific Machine Learning (SCaSML) for Solving High-Dimensional Partial Differential Equations** (June 2024 - Present)([Codebase](https://github.com/Francis-Fan-create/SCaSML.git))
+- **Simulation-Calibrated Scientific Machine Learning (SCaSML) for Solving High-Dimensional Partial Differential Equations** (June 2024 - Present)([Codebase for PINN](https://github.com/Francis-Fan-create/SCaSML.git),[Codebase for Gaussian Kernel](https://github.com/Francis-Fan-create/SCaSML_GP.git))
   - Supervisors: [Prof. Yiping Lu](https://2prime.github.io/) and [Dr. Yan Sun](https://www.researchgate.net/scientific-contributions/Yan-Sun-2195551935) at Northwest, Gatech
   - Developed simulation-based estimators to calibrate PINN error
   - Demonstrated SCaSML effectiveness through numerical experiments on multiple 100d+ PDEs
@@ -87,10 +87,10 @@ First Author: **Zexi Fan**
 # 📚 Academic Activities
 - Graduate course: Combinatorics, Score: 92, taught by [Prof. Chunwei Song](https://www.math.pku.edu.cn/teachers/csong/index.html) (Spring 2023)
 - Graduate course: Machine learning, Score: 93, taught by [Prof. Kedian Mou](https://scholar.google.com.hk/citations?user=H7QUCUwAAAAJ&hl=en) (Fall 2023)
-- Graduate course: Mathematical image processing, Audit, taught by [Prof. Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) (Fall 2023)
-- Graduate course: High Dimensional Probability, Ongoing, taught by [Prof. Zhihua Zhang](https://www.math.pku.edu.cn/teachers/zhzhang/) (Fall 2024)
-- Graduate course: Optimization Methods, Ongoing, taught by [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) (Fall 2024)
-- Graduate course: Applied Stochastic Analysis, Ongoing, taught by [Prof. Tiejun Li](https://www.math.pku.edu.cn/teachers/litj/) (Fall 2024)
+- Graduate course: Mathematical image processing, taught by [Prof. Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) (Fall 2023)
+- Graduate course: High Dimensional Probability, taught by [Prof. Zhihua Zhang](https://www.math.pku.edu.cn/teachers/zhzhang/) (Fall 2024)
+- Graduate course: Optimization Methods, taught by [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) (Fall 2024)
+- Graduate course: Applied Stochastic Analysis, taught by [Prof. Tiejun Li](https://www.math.pku.edu.cn/teachers/litj/) (Fall 2024)
 - Seminar: Blowup in fluid equations, organized by [Prof. Jiajun Tong](http://faculty.bicmr.pku.edu.cn/~tongj/) & [Prof. De Huang](https://sites.google.com/view/de-huang/home) (Fall 2023)
 - Seminar: Stochastic optimal control, organized by Dr. Xinhan Duan (Spring 2024)
 - Seminar: Large Language Model and Scientific Computing, organized by [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) (Fall 2024)
