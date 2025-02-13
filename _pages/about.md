@@ -21,7 +21,7 @@ I am a 3rd year undergraduate majoring in computational mathematics at Peking Un
 
 My research interests include scientific machine learning, diffusion models，high dimensional PDE solvers, and any other related topics in applied mathematics.
 
-Here is my [CV](My_Resume_2024_11.pdf).
+Here is my [CV](My_Resume_2025_2.pdf).
 
 # 🔥 News
 
