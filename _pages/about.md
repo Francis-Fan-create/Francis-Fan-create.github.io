@@ -57,11 +57,6 @@ First Author: **Zexi Fan**
 
 
 # 🔬 Research Experience
-- **Exploring Training Strategy of GAN via MCST in Go** (Sep 2019 - June 2020)
-  - Supervisors: [Dr. Hailong Qin](https://scholar.google.com/citations?user=zsdipTkAAAAJ&hl=en) at HIT
-  - Proposed an algorithm leveraging MCST in AlphaGo to balance the training of discriminator and generator in GAN
-  - Implemented an experiment on MINST to illustrate algorithm efficiency in early stages
-  - This is an award-winning paper of the National Innovation Competition of Youth(at Beijing), a research-oriented competition for high schoolers
   
 - **Unbiased Square Root Convergent Estimation for High-Dimensional Semilinear Parabolic Heat Equation** (Sep 2023 - Feb 2024)
   - Supervisors: [Prof. Yiping Lu](https://2prime.github.io/) at NYU
