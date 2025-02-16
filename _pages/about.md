@@ -63,7 +63,7 @@ First Author: **Zexi Fan**
   - Proposed an estimator using Multilevel Picard Iteration and randomized Multilevel Monte Carlo
   - Proved the unbiasedness and bounded variance of the estimator(-> ongoing)
   
-- **Flow Calibrated RL for Transition Path Sampling** (Feb 2024 - June 2024)([Slides](https://www.overleaf.com/read/pzcgkgrjxpys#477484))
+- **Flow Calibrated RL for Transition Path Sampling** (Feb 2024 - June 2024)([Slides](https://www.overleaf.com/read/pzcgkgrjxpys#477484),[Research Note](Transition_Path_with_template.pdf))
   - Supervisors: [Prof. Yiping Lu](https://2prime.github.io/) and [Dr. Dinghuai Zhang](https://zdhnarsil.github.io/) at NYU, Mila
   - Proposed an algorithm for sampling distribution-to-distribution transition paths under the SDE framework
   - Developed continuous versions of Soft Actor-Crictic and GFlowNet by stochastic analysis
