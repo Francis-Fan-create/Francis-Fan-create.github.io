@@ -21,7 +21,7 @@ I am a 3rd year undergraduate majoring in computational mathematics at Peking Un
 
 My research interests include scientific machine learning, diffusion models，high dimensional PDE solvers, and any other related topics in applied mathematics.
 
-Here is my [CV](My_Resume_2025_2.pdf).
+Here is my [CV](My_Resume_2025_2_17.pdf).
 
 # 🔥 News
 
@@ -31,7 +31,8 @@ Here is my [CV](My_Resume_2025_2.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Simulation-Calibrated Scientific Machine Learning (SCaSML) for Solving High-Dimensional Partial Differential Equations(Comming Soon)](To Do)
+[Physics-Informed Inference-Time Scaling for Solving High-dimensional PDE via Simula-
+tion Calibrated Scientific Machine Learning (SCaSML)(Comming Soon)](To Do)
 
 First Author: **Zexi Fan**
 
