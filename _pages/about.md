@@ -62,18 +62,18 @@ First Author: **Zexi Fan**
 - **Unbiased Square Root Convergent Estimation for High-Dimensional Semilinear Parabolic Heat Equation** (Sep 2023 - Feb 2024)
   - Supervisors: [Prof. Yiping Lu](https://2prime.github.io/) at NYU
   - Proposed an estimator using Multilevel Picard Iteration and randomized Multilevel Monte Carlo
-  - Proved the unbiasedness and bounded variance of the estimator(-> ongoing)
+  - Proved the unbiasedness and bounded variance of the estimator
   
 - **Flow Calibrated RL for Transition Path Sampling** (Feb 2024 - June 2024)([Slides](https://www.overleaf.com/read/pzcgkgrjxpys#477484),[Research Note](Transition_Path_with_template.pdf))
   - Supervisors: [Prof. Yiping Lu](https://2prime.github.io/) and [Dr. Dinghuai Zhang](https://zdhnarsil.github.io/) at NYU, Mila
   - Proposed an algorithm for sampling distribution-to-distribution transition paths under the SDE framework
   - Developed continuous versions of Soft Actor-Crictic and GFlowNet by stochastic analysis
-  - Implemented numerical experiments to confirm its efficacy(-> ongoing)
+  - Implemented numerical experiments to confirm its efficacy
   
 - **Simulation-Calibrated Scientific Machine Learning (SCaSML) for Solving High-Dimensional Partial Differential Equations** (June 2024 - Present)([Codebase for PINN](https://github.com/Francis-Fan-create/SCaSML.git),[Codebase for Gaussian Kernel](https://github.com/Francis-Fan-create/SCaSML_GP.git))
   - Supervisors: [Prof. Yiping Lu](https://2prime.github.io/) and [Dr. Yan Sun](https://www.researchgate.net/scientific-contributions/Yan-Sun-2195551935) at Northwestern, Gatech
   - Developed simulation-based estimators to calibrate PINN error
-  - Demonstrated SCaSML effectiveness through numerical experiments on multiple 100d+ PDEs
+  - Demonstrated SCaSML effectiveness through numerical experiments on multiple high dim PDEs
   
 - **Continuous State Contextual Bandit with Pessimism Regularization** (August 2024 - Present)
   - Supervisors: [Prof. Ying Jin](https://ying531.github.io/) at Havard
