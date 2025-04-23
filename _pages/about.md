@@ -21,23 +21,24 @@ I am a 3rd year undergraduate majoring in computational mathematics at Peking Un
 
 My research interests include scientific machine learning, diffusion models，high dimensional PDE solvers, and any other related topics in applied mathematics.
 
-Here is my [CV](My_Resume_2024_2_17.pdf).
+Here is my [CV](My_Resume_2025_4.pdf).
 
 # 🔥 News
 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scasml.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physics-Informed Inference-Time Scaling for Solving High-dimensional PDE via Simula-
-tion Calibrated Scientific Machine Learning (SCaSML)(Comming Soon)](To Do)
+tion Calibrated Scientific Machine Learning (SCaSML)](SCaSML_framework_techreport.pdf)
 
-First Author: **Zexi Fan**
+Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
 
-[**Project**(Comming Soon)](To Do) <strong><span class='show_paper_citations' data=''></span></strong>
-- Working on that.
+[**Project**](https://github.com/Francis-Fan-create/SCaSML.git) <strong><span class='show_paper_citations' data=''></span></strong>
+- First inference-time PDE solver based on surrogate model with convergence improvement guarantee
+- Numerical efficacy on multiple semi0-linear gradient dependent PDE systems at high dimensions
 </div>
 </div>
 
@@ -70,7 +71,7 @@ First Author: **Zexi Fan**
   - Developed continuous versions of Soft Actor-Crictic and GFlowNet by stochastic analysis
   - Implemented numerical experiments to confirm its efficacy
   
-- **Simulation-Calibrated Scientific Machine Learning (SCaSML) for Solving High-Dimensional Partial Differential Equations** (June 2024 - Present)([Codebase for PINN](https://github.com/Francis-Fan-create/SCaSML.git),[Codebase for Gaussian Kernel](https://github.com/Francis-Fan-create/SCaSML_GP.git))
+- **Simulation-Calibrated Scientific Machine Learning (SCaSML) for Solving High-Dimensional Partial Differential Equations** (June 2024 - April 2025)([Paper](SCaSML_framework_techreport.pdf))
   - Supervisors: [Prof. Yiping Lu](https://2prime.github.io/) and [Dr. Yan Sun](https://www.researchgate.net/scientific-contributions/Yan-Sun-2195551935) at Northwestern, Gatech
   - Developed simulation-based estimators to calibrate PINN error
   - Demonstrated SCaSML effectiveness through numerical experiments on multiple high dim PDEs
