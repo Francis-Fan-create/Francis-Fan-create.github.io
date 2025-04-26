@@ -32,7 +32,7 @@ Here is my [CV](My_Resume_2025_4.pdf).
 <div class='paper-box-text' markdown="1">
 
 [Physics-Informed Inference-Time Scaling for Solving High-dimensional PDE via Simula-
-tion Calibrated Scientific Machine Learning (SCaSML)](SCaSML_framework_techreport.pdf)
+tion Calibrated Scientific Machine Learning (SCaSML)](https://arxiv.org/abs/2504.16172)
 
 Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
 
