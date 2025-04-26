@@ -38,7 +38,7 @@ Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
 
 [**Project**](https://github.com/Francis-Fan-create/SCaSML.git) <strong><span class='show_paper_citations' data=''></span></strong>
 - First inference-time PDE solver based on surrogate model with convergence improvement guarantee
-- Numerical efficacy on multiple semi0-linear gradient dependent PDE systems at high dimensions
+- Numerical efficacy on multiple semi-linear gradient dependent PDE systems at high dimensions
 </div>
 </div>
 
