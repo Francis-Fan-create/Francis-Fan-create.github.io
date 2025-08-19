@@ -21,7 +21,7 @@ redirect_from:
 I am a 3rd-year undergraduate in Computational Mathematics at Peking University.  
 My research lies at the intersection of high-dimensional PDEs, simulation-calibrated scientific ML, stochastic processes & diffusion models, and quantum/non-equilibrium Markov dynamics. I build theory-backed algorithms (MLP / MLMC / lifting) and scale them to high-dimensional experiments.
 
-Here is my [CV](My_Resume_2025_4.pdf).
+Here is my [CV](My_Resume_2025_8.pdf).
 
 # 🔥 News
 - Apr 2025 — Preprint released: *Physics-Informed Inference-Time Scaling for Solving High-dimensional PDE via Simulation-Calibrated Scientific Machine Learning (SCaSML)*. See Publications below.
