@@ -1,4 +1,3 @@
-```markdown
 ---
 permalink: /
 title: ""
@@ -118,4 +117,4 @@ Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
 ---
 
 If you want, I can (1) produce a one-page research summary (PDF) for your outreach, (2) generate short tailored email templates for the top 6 professors, or (3) add a short "Visit Availability" block to highlight that you're in the U.S. and able to meet in person.
-```
+
