@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 3rd-year undergraduate in Computational Mathematics at Peking University.  
+I am a 3rd-year undergraduate in Computational Mathematics at Peking University.  Seeking USA PhD 26Fall.
 My research lies at the intersection of high-dimensional PDEs, simulation-calibrated scientific ML, stochastic processes & diffusion models, and quantum/non-equilibrium Markov dynamics. I build theory-backed algorithms (MLP / MLMC / lifting) and scale them to high-dimensional experiments.
 
 Here is my [CV](My_Resume_2025_8.pdf).
@@ -116,5 +116,4 @@ Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
 
 ---
 
-If you want, I can (1) produce a one-page research summary (PDF) for your outreach, (2) generate short tailored email templates for the top 6 professors, or (3) add a short "Visit Availability" block to highlight that you're in the U.S. and able to meet in person.
 
