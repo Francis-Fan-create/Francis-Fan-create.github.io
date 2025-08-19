@@ -24,7 +24,6 @@ Here is my [CV](My_Resume_2025_8.pdf).
 
 # 🔥 News
 - Apr 2025 — Preprint released: *Physics-Informed Inference-Time Scaling for Solving High-dimensional PDE via Simulation-Calibrated Scientific Machine Learning (SCaSML)*. See Publications below.
-- Currently in the U.S. and available for short research visits / meetings.
 
 # 📝 Publications
 
