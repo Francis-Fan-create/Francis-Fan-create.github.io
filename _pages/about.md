@@ -77,7 +77,7 @@ Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
 
 **Simulation-Calibrated Scientific Machine Learning (SCaSML) for High-Dimensional PDEs** — *Jun 2024 – Apr 2025*  
 - **Supervisors:** [Prof. Yiping Lu](https://2prime.github.io/), Dr. Yan Sun (Northwestern / Georgia Tech)  
-- **Overview:** Proposed SCaSML, a pipeline that uses simulation-based estimators to calibrate surrogate PINN solutions and correct bias via Multilevel Picard (MLP) style calibration and randomized MLMC.  
+- **Overview:** Proposed SCaSML, a pipeline that uses simulation-based estimators to calibrate surrogate PINN solutions and correct bias via Multilevel Picard (MLP) style calibration and randomized MLMC. (Paper:[link](https://arxiv.org/abs/2504.16172)) 
 - **Key contributions:**  
   - Derived theoretical complexity and convergence improvements showing better scaling in dimension than vanilla PINNs for a class of semilinear/parabolic PDEs.  
   - Designed a family of simulation-calibrated estimators and proved rate improvements by quantifying bias/variance tradeoffs under MLP corrections.  
