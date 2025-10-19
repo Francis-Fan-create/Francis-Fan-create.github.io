@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 3rd-year undergraduate in Computational Mathematics at Peking University.  Seeking USA PhD 26Fall.
+I am a 4th-year undergraduate in Computational Mathematics at Peking University.  Seeking USA PhD 26Fall.
 My research lies at the intersection of high-dimensional PDEs, scientific ML, diffusion models, and quantum/non-equilibrium Markov dynamics. I build theory-backed algorithms and scale them to high-dimensional experiments.
 
 Here is my [CV](My_Resume_2025_8.pdf).
