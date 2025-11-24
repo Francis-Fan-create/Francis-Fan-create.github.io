@@ -69,7 +69,7 @@ Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
 
 **Continuous-State Contextual Bandit with Pessimism Regularization** — *Aug 2024 – Nov 2025*  
 - **Supervisor:** [Prof. Ying Jin](https://ying531.github.io/) (Harvard)  
-- **Overview:** Extended pessimism regularization to continuous state and action spaces with function approximation.  (Notes: [link](Continuous_Pessimistic_Bandit.pdf))
+- **Overview:** Extended pessimism regularization to continuous state and action spaces with function approximation.  (Note: [link](Continuous_Pessimistic_Bandit.pdf))
 - **Key contributions:**  
   - Formulated a continuous-action pessimism objective compatible with common function approximators.  
   - Proved suboptimality bounds **without** the standard uniform overlap assumption by developing concentration inequalities adapted to policies with continuous actions.  
@@ -77,7 +77,7 @@ Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
 
 **Simulation-Calibrated Scientific Machine Learning (SCaSML) for High-Dimensional PDEs** — *Jun 2024 – Apr 2025*  
 - **Supervisors:** [Prof. Yiping Lu](https://2prime.github.io/), Dr. Yan Sun (Northwestern / Georgia Tech)  
-- **Overview:** Proposed SCaSML, a pipeline that uses simulation-based estimators to calibrate surrogate PINN solutions and correct bias via Multilevel Picard (MLP) style calibration and randomized MLMC. (Paper:[link](https://arxiv.org/abs/2504.16172)) 
+- **Overview:** Proposed SCaSML, a pipeline that uses simulation-based estimators to calibrate surrogate PINN solutions and correct bias via Multilevel Picard (MLP) style calibration and randomized MLMC. (Paper: [link](https://arxiv.org/abs/2504.16172)) 
 - **Key contributions:**  
   - Derived theoretical complexity and convergence improvements showing better scaling in dimension than vanilla PINNs for a class of semilinear/parabolic PDEs.  
   - Designed a family of simulation-calibrated estimators and proved rate improvements by quantifying bias/variance tradeoffs under MLP corrections.  
