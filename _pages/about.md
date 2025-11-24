@@ -60,7 +60,7 @@ Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
 # 🔬 Research Experience
   
 **Accelerating NESS sampling on Quantum Markov Chains via Second-Order Lifting** — *Jul 2025 – Present*  
-- **Supervisors:** [Prof. Jianfeng Lu](https://sites.math.duke.edu/~jianfeng/) (Duke)  
+- **Supervisors:** [Prof. Jianfeng Lu](https://sites.math.duke.edu/~jianfeng/) (Duke), [Prof. Bowen Li](https://www.cityu.edu.hk/stfprofile/bowenli.htm) (CityU)
 - **Overview:** Designed a second-order lifting framework to accelerate sampling of Non-Equilibrium Steady States (NESS) for Lindbladian dynamics.  (In preparation version: [link](NESS_QMC_lifting.pdf))
 - **Key contributions:**  
   - Developed lifting constructions that increase effective spectral gap for dissipative quantum dynamics under realistic Lindbladian models.  
