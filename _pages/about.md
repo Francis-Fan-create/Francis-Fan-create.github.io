@@ -61,15 +61,15 @@ Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
   
 **Accelerating NESS sampling on Quantum Markov Chains via Second-Order Lifting** — *Jul 2025 – Present*  
 - **Supervisors:** [Prof. Jianfeng Lu](https://sites.math.duke.edu/~jianfeng/) (Duke)  
-- **Overview:** Designed a second-order lifting framework to accelerate sampling of Non-Equilibrium Steady States (NESS) for Lindbladian dynamics including Lamb-shift Hamiltonians.  
+- **Overview:** Designed a second-order lifting framework to accelerate sampling of Non-Equilibrium Steady States (NESS) for Lindbladian dynamics.  (In preparation version: [link](NESS_QMC_lifting.pdf))
 - **Key contributions:**  
   - Developed lifting constructions that increase effective spectral gap for dissipative quantum dynamics under realistic Lindbladian models.  
   - Applied *hypocoercivity* techniques and flow-Poincaré inequalities to derive rigorous lower and upper bounds on relaxation times for lifted processes.  
-- **Impact:** Provides a theoretically grounded and practically implementable path to faster NESS sampling for quantum statistical problems and quantum control.
+- **Impact:** Provides a theoretically grounded and practically implementable path to faster NESS sampling.
 
-**Continuous-State Contextual Bandit with Pessimism Regularization** — *Aug 2024 – Present*  
+**Continuous-State Contextual Bandit with Pessimism Regularization** — *Aug 2024 – Nov 2024*  
 - **Supervisor:** [Prof. Ying Jin](https://ying531.github.io/) (Harvard)  
-- **Overview:** Extended pessimism regularization to continuous state and action spaces with function approximation.  
+- **Overview:** Extended pessimism regularization to continuous state and action spaces with function approximation.  (Notes: [link](Continuous_Pessimistic_Bandit.pdf))
 - **Key contributions:**  
   - Formulated a continuous-action pessimism objective compatible with common function approximators.  
   - Proved suboptimality bounds **without** the standard uniform overlap assumption by developing concentration inequalities adapted to policies with continuous actions.  
