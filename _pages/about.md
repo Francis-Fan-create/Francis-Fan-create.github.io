@@ -20,7 +20,7 @@ redirect_from:
 I am a 4th-year undergraduate in Computational Mathematics at Peking University.  Seeking USA PhD 26Fall.
 My research lies at the intersection of high-dimensional PDEs, scientific ML, diffusion models, and quantum/non-equilibrium Markov dynamics. I build theory-backed algorithms and scale them to high-dimensional experiments.
 
-Here is my [CV](My_Resume_2025_8.pdf).
+Here is my [CV](My_Resume_2025_11.pdf).
 
 # 🔥 News
 - Apr 2025 — Preprint released: *Physics-Informed Inference-Time Scaling for Solving High-dimensional PDE via Simulation-Calibrated Scientific Machine Learning (SCaSML)*. See Publications below.
@@ -67,7 +67,7 @@ Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
   - Applied *hypocoercivity* techniques and flow-Poincaré inequalities to derive rigorous lower and upper bounds on relaxation times for lifted processes.  
 - **Impact:** Provides a theoretically grounded and practically implementable path to faster NESS sampling.
 
-**Continuous-State Contextual Bandit with Pessimism Regularization** — *Aug 2024 – Nov 2024*  
+**Continuous-State Contextual Bandit with Pessimism Regularization** — *Aug 2024 – Nov 2025*  
 - **Supervisor:** [Prof. Ying Jin](https://ying531.github.io/) (Harvard)  
 - **Overview:** Extended pessimism regularization to continuous state and action spaces with function approximation.  (Notes: [link](Continuous_Pessimistic_Bandit.pdf))
 - **Key contributions:**  
