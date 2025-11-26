@@ -63,25 +63,25 @@ Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
 - **Supervisors:** [Prof. Jianfeng Lu](https://sites.math.duke.edu/~jianfeng/) (Duke), [Prof. Bowen Li](https://www.cityu.edu.hk/stfprofile/bowenli.htm) (CityU)
 - **Overview:** Designed a second-order lifting framework to accelerate sampling of Non-Equilibrium Steady States (NESS) for Lindbladian dynamics.  (In preparation version: [link](NESS_QMC_lifting.pdf))
 - **Key contributions:**  
-  - Developed lifting constructions that increase effective spectral gap for dissipative quantum dynamics under realistic Lindbladian models.  
-  - Applied *hypocoercivity* techniques and flow-Poincaré inequalities to derive rigorous lower and upper bounds on relaxation times for lifted processes.  
+  - Introduced a second-order lifting for Lindbladian dynamics; used hypocoercivity and flow-Poincaré techniques to derive provable mixing acceleration to non-equilibrium steady states (NESS).
+  - Derived singular-value-gap bounds and validated speedups on representative quantum Markov chains via numerical experiments.
 - **Impact:** Provides a theoretically grounded and practically implementable path to faster NESS sampling.
 
 **Continuous-State Contextual Bandit with Pessimism Regularization** — *Aug 2024 – Nov 2025*  
 - **Supervisor:** [Prof. Ying Jin](https://ying531.github.io/) (Harvard)  
 - **Overview:** Extended pessimism regularization to continuous state and action spaces with function approximation.  (Note: [link](Continuous_Pessimistic_Bandit.pdf))
 - **Key contributions:**  
-  - Formulated a continuous-action pessimism objective compatible with common function approximators.  
-  - Proved suboptimality bounds **without** the standard uniform overlap assumption by developing concentration inequalities adapted to policies with continuous actions.  
+  - Extended pessimism regularization to continuous state/action settings; designed a practical algorithm with confidence penalties adapted to compact action spaces.
+  - Proved regret guarantees removing the uniform-overlap requirement; developed concentration bounds for continuous policies. 
 - **Impact:** Bridges theoretical pessimism principles and practical continuous action bandit learning, relevant to safe RL and policy estimation in continuous environments.
 
 **Simulation-Calibrated Scientific Machine Learning (SCaSML) for High-Dimensional PDEs** — *Jun 2024 – Apr 2025*  
 - **Supervisors:** [Prof. Yiping Lu](https://2prime.github.io/), Dr. Yan Sun (Northwestern / Georgia Tech)  
 - **Overview:** Proposed SCaSML, a pipeline that uses simulation-based estimators to calibrate surrogate PINN solutions and correct bias via Multilevel Picard (MLP) style calibration and randomized MLMC. (Paper: [link](https://arxiv.org/abs/2504.16172)) 
 - **Key contributions:**  
-  - Derived theoretical complexity and convergence improvements showing better scaling in dimension than vanilla PINNs for a class of semilinear/parabolic PDEs.  
-  - Designed a family of simulation-calibrated estimators and proved rate improvements by quantifying bias/variance tradeoffs under MLP corrections.  
-  - Scaled numerical validation to several 100-dimensional benchmark PDEs, providing reproducible code and experiments: [github.com/Francis-Fan-create/SCaSML](https://github.com/Francis-Fan-create/SCaSML.git).  
+  - Co-designed a calibration pipeline combining PINN/Gaussian surrogates, randomized MLMC and Multilevel Picard iterations to correct surrogate bias for high-dimensional semilinear PDEs. 
+  - Proved the efficiency of such calibration rigorously using techniques from Multilevel Picard Iteration.
+  - Demonstrated improved complexity scaling on 100d+ benchmarks; released code and benchmarks: [github.com/Francis-Fan-create/SCaSML](https://github.com/Francis-Fan-create/SCaSML.git).  
 - **Impact:** Demonstrates a viable route for inference-time/scalable PDE solving using theory-informed ML surrogates — of direct interest to groups working on scientific ML and high-dimensional computation.
 
 **Flow-Calibrated RL for Transition Path Sampling** — *Feb 2024 – Jun 2024*  
