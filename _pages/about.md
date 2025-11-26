@@ -79,7 +79,7 @@ Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
 - **Supervisors:** [Prof. Yiping Lu](https://2prime.github.io/), Dr. Yan Sun (Northwestern / Georgia Tech)  
 - **Overview:** Proposed SCaSML, a pipeline that uses simulation-based estimators to calibrate surrogate PINN solutions and correct bias via Multilevel Picard (MLP) style calibration and randomized MLMC. (Paper: [link](https://arxiv.org/abs/2504.16172)) 
 - **Key contributions:**  
-  - Co-designed a calibration pipeline combining PINN/Gaussian surrogates, randomized MLMC and Multilevel Picard iterations to correct surrogate bias for high-dimensional semilinear PDEs. 
+  - Derived theoretical complexity and convergence improvements showing better scaling in dimension than vanilla PINNs for a class of semilinear/parabolic PDEs.
   - Proved the efficiency of such calibration rigorously using techniques from Multilevel Picard Iteration.
   - Demonstrated improved complexity scaling on 100d+ benchmarks; released code and benchmarks: [github.com/Francis-Fan-create/SCaSML](https://github.com/Francis-Fan-create/SCaSML.git).  
 - **Impact:** Demonstrates a viable route for inference-time/scalable PDE solving using theory-informed ML surrogates — of direct interest to groups working on scientific ML and high-dimensional computation.
