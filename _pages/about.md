@@ -95,7 +95,6 @@ Authors: **Zexi Fan**, Yan Sun, Shihao Yang, Yiping Lu
 # 📚 Academic Activities
 - Graduate course: Combinatorics (Score: 92), [Prof. Chunwei Song](https://www.math.pku.edu.cn/teachers/csong/index.html) — Spring 2023  
 - Graduate course: Machine Learning (Score: 93), [Prof. Kedian Mou](https://scholar.google.com.hk/citations?user=H7QUCUwAAAAJ&hl=en) — Fall 2023  
-- Graduate course: Mathematical Image Processing, [Prof. Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) — Fall 2023  
 - Graduate course: High Dimensional Probability, [Prof. Zhihua Zhang](https://www.math.pku.edu.cn/teachers/zhzhang/) — Fall 2024  
 - Graduate course: Optimization Methods, [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) — Fall 2024  
 - Graduate course: Applied Stochastic Analysis, [Prof. Tiejun Li](https://www.math.pku.edu.cn/teachers/litj/) — Fall 2024  
