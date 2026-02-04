@@ -23,7 +23,7 @@ My research lies at the intersection of high-dimensional PDEs, scientific ML, di
 Here is my [CV](My_Resume_2025_11.pdf).
 
 # 🔥 News
-- Apr 2025 — Preprint released: *Physics-Informed Inference-Time Scaling for Solving High-dimensional PDE via Simulation-Calibrated Scientific Machine Learning (SCaSML)*. See Publications below.
+-  Feb 2026 — *Physics-Informed Inference-Time Scaling for Solving High-dimensional PDE via Simulation-Calibrated Scientific Machine Learning (SCaSML)* is accepted by ICLR2026.
 
 # 📝 Publications
 
