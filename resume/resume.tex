@@ -1,0 +1,170 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[hidelinks]{hyperref}
+\usepackage[left=1.0in,right=1.0in,top=0.65in,bottom=0.65in]{geometry}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{microtype}
+\setlength{\parindent}{0pt}
+
+% ===========================
+% ===== 可调节的视觉参数 =====
+% ===========================
+% 只需修改下面两行即可调整整个 CV 的间距规则：
+\newlength{\cvitemsep}     \setlength{\cvitemsep}{3pt}  % <-- bullet<->bullet & title->first-bullet 的统一小间距（非常小）
+\newlength{\projsep}      \setlength{\projsep}{\dimexpr 3\cvitemsep\relax} % <-- 每个 project 与下一个 project 之间的较大间距（>= 3 * cvitemsep）
+% 说明：把 cvitemsep 调大（例如 4pt 或 5pt）会同时增大三倍的 projsep
+
+% 行距与字号（若需更大字号再调）
+\renewcommand{\baselinestretch}{1.04}
+\AtBeginDocument{\fontsize{11}{13}\selectfont}
+
+% 主题颜色与 section 标题样式
+\definecolor{CarnegieMellonRed}{RGB}{196,18,48}
+\titleformat{\section}{\large\bfseries\scshape\color{CarnegieMellonRed}}{}{0em}{}
+\titlespacing{\section}{0pt}{8pt}{6pt}
+
+% 把 itemize 的 topsep/itemsep 都设为 \cvitemsep：
+\setlist[itemize]{noitemsep, itemsep=\cvitemsep, topsep=\cvitemsep, parsep=0pt, partopsep=0pt, left=1.5em}
+
+% 简易宏
+\newcommand{\pubitem}[1]{\vspace{2pt}\noindent\footnotesize #1\vspace{2pt}}
+
+\begin{document}
+
+%====================
+% Header
+%====================
+\begin{center}
+  {\LARGE\bfseries Zexi Fan} \\[6pt]
+  \footnotesize
+  \href{https://francis-fan-create.github.io/}{Personal Homepage} \enspace $\vert$ \enspace
+  \href{https://scholar.google.com/citations?user=QX64w3MAAAAJ}{Google Scholar} \enspace $\vert$ \enspace
+  \href{https://github.com/Francis-Fan-create}{GitHub} \enspace $\vert$ \enspace
+  \href{https://www.linkedin.com/in/zexi-fan-79510a308/}{LinkedIn} \\[6pt]
+  \footnotesize Email: \texttt{2200010816@stu.pku.edu.cn}
+\end{center}
+
+%====================
+% Education
+%====================
+\section{Education}
+\noindent\textbf{Columbia University} \hfill Aug 2026 -- \\
+\noindent Ph.D., Applied Mathematics
+
+\vspace{\projsep}
+
+\noindent\textbf{Peking University (PKU)} \hfill Sep 2022 -- Jun 2026 \\
+\noindent B.S., Computational Mathematics \\
+\noindent Selected high-grade courses (score): Abstract Algebra (93), Statistical Learning (93), Combinatorics (92), Advanced Algebra II (90).
+
+\vspace{\projsep}
+
+%====================
+% Publications
+%====================
+\section{Publications \& Preprints}
+\pubitem{\textbf{Z.\ Fan}, Y. Sun, S. Yang, Y. Lu. \textit{Physics-Informed Inference Time Scaling via Simulation-Calibrated Scientific Machine Learning}. ICLR 2026. \href{https://arxiv.org/abs/2504.16172}{arXiv:2504.16172}.}
+
+\pubitem{\textbf{Z.\ Fan}, B.\ Li, J. Lu. \textit{Sharp hypocoercive convergence estimates for underdamped Langevin dynamics via the modified $L^2$ method}. \href{https://arxiv.org/abs/2604.10068}{arXiv:2604.10068}.}
+
+
+\vspace{\projsep}
+
+%====================
+% Research Experience
+%====================
+\section{Research Experience}
+
+% === Project 1 ===
+\noindent\textbf{Sharp Hypocoercive Convergence Estimates for Nonequilibrium Dynamics} \hfill Jul 2025 -- Present \\
+Advisors: Prof. Jianfeng Lu, Prof. Bowen Li \hfill Duke University \& CityU
+\begin{itemize}
+  \item Designed a novel gapped-DMS method to derive sharp hypocoercive convergence rate estimates for nonequilibrium dynamics; established explicit square-root and perturbation thresholds.
+  \item Extended framework to general non-equilibrium settings and validated convergence accelerations via numerical experiments.
+\end{itemize}
+\vspace{\projsep}
+
+% === Project 2 ===
+\noindent\textbf{SCaSML: Simulation-Calibrated Algorithm for High-Dimensional PDEs} \hfill Jun 2024 -- Apr 2025 \\
+Advisors: Prof. Yiping Lu, Dr. Yan Sun \hfill Northwestern \& Georgia Tech
+\begin{itemize}
+  \item Established theoretical guarantees for a calibration pipeline combining PINN/Gaussian surrogates, randomized MLMC and Multilevel Picard iterations to correct surrogate bias for high-dimensional semilinear PDEs.
+  \item Demonstrated improved complexity scaling on $100$d+ benchmarks; released code and benchmarks: \href{https://github.com/Francis-Fan-create/SCaSML.git}{SCaSML}.
+\end{itemize}
+\vspace{\projsep}
+
+% === Project 3 ===
+\noindent\textbf{Continuous-State Contextual Bandit with Pessimism Regularization} \hfill Aug 2024 -- Nov 2025 \\
+Advisor: Prof. Ying Jin \hfill Harvard University
+\begin{itemize}
+  \item Extended pessimism regularization to continuous state/action settings; designed a practical algorithm with confidence penalties adapted to compact action spaces.
+  \item Proved regret guarantees removing the uniform-overlap requirement; developed concentration bounds for continuous policies.
+\end{itemize}
+\vspace{\projsep}
+
+% === Project 4 ===
+\noindent\textbf{Flow-Calibrated Stochastic Control for Transition Path Sampling} \hfill Feb 2024 -- Jun 2024 \\
+Advisors: Prof. Yiping Lu, Dr. Dinghuai Zhang \hfill NYU Courant \& Mila
+\begin{itemize}
+  \item Recast transition-path sampling as a Schr\"odinger-bridge problem; developed continuous SAC / GFlowNet variants and validated on model SDEs.
+\end{itemize}
+\vspace{\projsep}
+
+% === Project 5 ===
+\noindent\textbf{Unbiased Square-Root Convergent Estimator for High-Dimensional PDEs} \hfill Sep 2023 -- Feb 2024 \\
+Advisor: Prof. Yiping Lu \hfill NYU Courant
+\begin{itemize}
+  \item Constructed an unbiased estimator using Multilevel Picard and randomized MLMC; proved bounded variance and improved statistical cost scaling.
+\end{itemize}
+
+\vspace{\projsep}
+
+%====================
+% Selected Coursework & Activities
+%====================
+\section{Selected Coursework \& Academic Activities}
+\noindent Graduate-level: High-Dimensional Probability; Applied Stochastic Analysis; Optimization Methods; Mathematical\\
+\noindent\quad Processing; Statistical Learning. \\[8pt]
+\noindent Seminars: Stochastic Optimal Control; LLMs \& Scientific Computing; Blowup in Fluid Equations. \\[6pt]
+\noindent Summer school: ``Beauty of Theoretical Computer Science'' (NJU), Summer 2024.
+
+\vspace{\projsep}
+
+%====================
+% Technical Skills
+%====================
+\section{Technical Skills}
+\noindent \textbf{Programming:} Python, MATLAB, \LaTeX, Bash, Markdown. \\[6pt]
+\noindent \textbf{Libraries \& Tools:} PyTorch, JAX, NumPy, SciPy, DeepXDE, Weights \& Biases. \\[6pt]
+\noindent \textbf{Numerical methods \& Solvers:} Multilevel Picard, MLMC; optimization solvers: Gurobi, Mosek. \\[6pt]
+\noindent \textbf{Mathematical tools:} Stochastic analysis, hypocoercivity, concentration inequalities, optimal transport. \\[6pt]
+\noindent \textbf{Languages:} Mandarin (native); English (fluent).
+
+\vspace{\projsep}
+
+%====================
+% Service & Leadership
+%====================
+\section{Service \& Leadership}
+Academic \& Innovation Dept., SMS Student Union \hfill Spring 2023 \\
+English Debate Club \hfill Summer 2024
+
+\vspace{\projsep}
+
+%====================
+% Memberships & Invitations
+%====================
+\section{Memberships \& Invitations}
+\noindent Member, OpenAI Emerging Talent Community. \\[\cvitemsep]
+\noindent Member, Valence Lab Community. \\[\cvitemsep]
+\noindent Invited reviewer / contributor for \textit{Pure and Applied Mathematics Journal}, \textit{Conference on Applied Mathematics and Information Technology}, \textit{Conference on Computer, Communication and Control Engineering}, \textit{Molecules},  and \textit{World Journal of Mathematics and Statistics}. \\[\cvitemsep]
+\noindent Invited participant, Cerebras $\times$ Cline Vibe Coder Hackathon, Supervised Program for Alignment Research (SPAR).
+
+\vspace{8pt}
+\noindent\footnotesize \textit{Available upon request: references, code links, and extended publication list.}
+
+\end{document}
